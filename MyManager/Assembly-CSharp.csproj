@@ -51,9 +51,20 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\CinDay.cs" />
+     <Compile Include="Assets\CinMouth.cs" />
+     <Compile Include="Assets\EinDay.cs" />
+     <Compile Include="Assets\EinMouth.cs" />
+     <Compile Include="Assets\PinDay.cs" />
+     <Compile Include="Assets\PInMouth.cs" />
+     <Compile Include="Assets\RinDay.cs" />
+     <Compile Include="Assets\RinMouth.cs" />
      <Compile Include="Assets\Scripts\AddingSystem.cs" />
-     <Compile Include="Assets\SwichScreen.cs" />
-     <Compile Include="Assets\time.cs" />
+     <Compile Include="Assets\Scripts\Statistics.cs" />
+     <Compile Include="Assets\Scripts\SwichScreen.cs" />
+     <Compile Include="Assets\Scripts\time.cs" />
+     <Compile Include="Assets\SinDay.cs" />
+     <Compile Include="Assets\SinMouth.cs" />
  <Reference Include="UnityEngine.UIAutomation">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UIAutomation/UnityEngine.UIAutomation.dll</HintPath>
  </Reference>
